@@ -1,4 +1,4 @@
-Paper : https://aclanthology.org/2022.naacl-main.63/
+Paper : [https://aclanthology.org/2022.naacl-main.63/](https://www.researchgate.net/publication/293807031_Wake-Up-Word_Speech_Recognition/]
 
 <table class="tg">
 <thead>
