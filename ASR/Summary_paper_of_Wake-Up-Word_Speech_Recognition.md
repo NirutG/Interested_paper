@@ -9,11 +9,8 @@ Paper : https://www.researchgate.net/publication/293807031_Wake-Up-Word_Speech_R
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky" rowspan="3"><span style="font-weight:bold">Challenge</span></td>
-    <td class="tg-0pky">Speech is one of the most natural forms of communications between people. Spoken language has the unique property, naturally</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">learned as part of human development.</td>
+    <td class="tg-0pky" rowspan="2"><span style="font-weight:bold">Challenge</span></td>
+    <td class="tg-0pky">Speech is one of the most natural forms of communications between people. Spoken language has the unique property, <br>naturally learned as part of human development.</td>
   </tr>
   <tr>
     <td class="tg-0pky">- Spoken language learning process applied to digital computing systems.</td>
