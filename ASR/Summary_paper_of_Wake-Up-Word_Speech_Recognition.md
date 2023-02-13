@@ -10,14 +10,11 @@ Paper : https://www.researchgate.net/publication/293807031_Wake-Up-Word_Speech_R
 <tbody>
   <tr>
     <td class="tg-0pky" rowspan="3"><span style="font-weight:bold">Challenge</span></td>
-    <td class="tg-0pky">They present a textless speech-to-speech translation (S2ST) system that can translate speech<br>from one language into another language and can be built without the need of any text data.<br></td>
+    <td class="tg-0pky">Speech is one of the most natural forms of communications between people.<br>Spoken language has the unique property, naturally learned as part of human development.<br></td>
   </tr>
   <tr>
-    <td class="tg-0pky">1. Model multispeaker target speech</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">2. Train the system with real-world S2ST data</td>
-  </tr>
+    <td class="tg-0pky">- Spoken language learning process applied to digital computing systems.</td>
+  </tr>  
   <tr>
     <td class="tg-fymr" rowspan="3"><span style="font-weight:bold">Key Related Work</span></td>
     <td class="tg-0pky">1. Direct S2ST</td>
