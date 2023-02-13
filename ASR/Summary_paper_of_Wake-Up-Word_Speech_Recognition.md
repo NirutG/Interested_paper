@@ -4,7 +4,7 @@ Paper : https://www.researchgate.net/publication/293807031_Wake-Up-Word_Speech_R
 <thead>
   <tr>
     <th class="tg-0pky"><span style="font-weight:bold">Title</span></th>
-    <th class="tg-0pky"><span style="font-weight:bold">Textless Speech-to-Speech Translation on Real Data</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Wake-Up-Word Speech Recognition</span></th>
   </tr>
 </thead>
 <tbody>
