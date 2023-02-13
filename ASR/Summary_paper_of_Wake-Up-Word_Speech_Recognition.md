@@ -63,15 +63,13 @@ Paper : https://www.researchgate.net/publication/293807031_Wake-Up-Word_Speech_R
     <td class="tg-0lax">4. SVM parameters</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:bold">Results</span></td>
+    <td class="tg-0pky" rowspan="3"><span style="font-weight:bold">Results</span></td>
     <td class="tg-0pky">1. The word list is sorted by increasing Total Error Rates for the usual, standard “Score 1”, classifier and broken into two groups for clarity.</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
     <td class="tg-0pky">2. the RERR gains for each method, the average RERR gain across all words considered in the TIMIT test set.</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
     <td class="tg-0pky">3. An average Relative Error Rate Reduction of 532% using Two-Class SVM Scoring with the Duration feature.</td>
   </tr>
   <tr>
