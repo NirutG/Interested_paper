@@ -44,7 +44,6 @@ Paper : https://arxiv.org/pdf/1706.03762.pdf
     <td class="tg-0pky">1. The paper presented a novel architecture based solely on attention mechanisms for sequence modeling, which does not require the use of RNNs or CNNs.</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
     <td class="tg-0pky">2. The Transformer achieved state-of-the-art results on several machine translation tasks, demonstrating the effectiveness of the attention mechanism.</td>
   </tr>
 </tbody>
