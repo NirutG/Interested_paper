@@ -40,7 +40,7 @@ Paper : https://arxiv.org/pdf/1706.03762.pdf
     <td class="tg-0pky">2. The Transformer also achieved competitive results on the English- Czech and English-Latvian translation tasks.</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:bold">Conclusion</span></td>
+    <td class="tg-0pky" rowspan="2"><span style="font-weight:bold">Conclusion</span></td>
     <td class="tg-0pky">1. The paper presented a novel architecture based solely on attention mechanisms for sequence modeling, which does not require the use of RNNs or CNNs.</td>
   </tr>
   <tr>
